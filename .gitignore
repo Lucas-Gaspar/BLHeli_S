@@ -1,3 +1,9 @@
 SiLabs/Output/
 SiLabs/BLHeli.LST
 SiLabs/MakeHex_Result.txt
+
+.DS_Store
+*~
+*.bak
+*.swp
+*.save
