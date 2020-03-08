@@ -3,3 +3,6 @@
 *.bak
 *.swp
 *.save
+build/
+src/BLHeli_S.LST
+local.mk
